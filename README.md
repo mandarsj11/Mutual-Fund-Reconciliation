@@ -6,3 +6,7 @@ Useful for anyone with mutual fund investment - regular investment thru broker o
 3: Generate MF statement as per SIP schedule given
 4: calculate XIRR, Market Value etc for every scheme
 5: Output result to excel with format, cell allignment etc.
+
+Instructions:
+1: User attached excel file to fill first tab - 'MF_Static'
+2: Output will be given in tab - 'Dashboard'
