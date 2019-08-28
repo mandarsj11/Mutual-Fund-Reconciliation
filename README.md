@@ -5,3 +5,4 @@ Useful for anyone with mutual fund investment - regular investment thru broker o
 2: Fetching NPS scheme details using Webscrapping : BeautifulSoup
 3: Generate MF statement as per SIP schedule given
 4: calculate XIRR, Market Value etc for every scheme
+5: Output result to excel with format, cell allignment etc.
